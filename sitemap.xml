@@ -2,13 +2,22 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>https://example.org/posts/%E7%92%9E%E7%9F%B3/%E7%92%9E%E7%9F%B3/</loc><lastmod>2023-10-27T15:43:34&#43;08:00</lastmod></url><url>
-            <loc>https://example.org/tags/architecture/</loc><lastmod>2023-10-27T15:43:34&#43;08:00</lastmod></url><url>
-            <loc>https://example.org/categories/</loc><lastmod>2023-10-27T15:43:34&#43;08:00</lastmod></url><url>
-            <loc>https://example.org/tags/interior/</loc><lastmod>2023-10-27T15:43:34&#43;08:00</lastmod></url><url>
-            <loc>https://example.org/</loc><lastmod>2023-10-27T15:43:34&#43;08:00</lastmod></url><url>
-            <loc>https://example.org/posts/</loc><lastmod>2023-10-27T15:43:34&#43;08:00</lastmod></url><url>
-            <loc>https://example.org/tags/projects/</loc><lastmod>2023-10-27T15:43:34&#43;08:00</lastmod></url><url>
-            <loc>https://example.org/categories/projects/</loc><lastmod>2023-10-27T15:43:34&#43;08:00</lastmod></url><url>
-            <loc>https://example.org/tags/pub/</loc><lastmod>2023-10-27T15:43:34&#43;08:00</lastmod></url><url>
-            <loc>https://example.org/tags/</loc><lastmod>2023-10-27T15:43:34&#43;08:00</lastmod></url></urlset>
+            <loc>https://example.org/posts/projects-the-plain/</loc><lastmod>2023-10-26T15:43:34&#43;08:00</lastmod></url><url>
+            <loc>https://example.org/posts/drawing-xiaohu/</loc><lastmod>2023-10-20T15:43:34&#43;08:00</lastmod></url><url>
+            <loc>https://example.org/posts/drawing-wireline-mode/</loc><lastmod>2023-10-15T15:43:34&#43;08:00</lastmod></url><url>
+            <loc>https://example.org/posts/basic-markdown-syntax/</loc><lastmod>2020-01-01T16:45:40&#43;08:00</lastmod></url><url>
+            <loc>https://example.org/categories/</loc><lastmod>2023-10-26T15:43:34&#43;08:00</lastmod></url><url>
+            <loc>https://example.org/</loc><lastmod>2023-10-26T15:43:34&#43;08:00</lastmod></url><url>
+            <loc>https://example.org/posts/</loc><lastmod>2023-10-26T15:43:34&#43;08:00</lastmod></url><url>
+            <loc>https://example.org/tags/projects/</loc><lastmod>2023-10-26T15:43:34&#43;08:00</lastmod></url><url>
+            <loc>https://example.org/categories/projects/</loc><lastmod>2023-10-26T15:43:34&#43;08:00</lastmod></url><url>
+            <loc>https://example.org/tags/pub/</loc><lastmod>2023-10-26T15:43:34&#43;08:00</lastmod></url><url>
+            <loc>https://example.org/tags/</loc><lastmod>2023-10-26T15:43:34&#43;08:00</lastmod></url><url>
+            <loc>https://example.org/tags/cat/</loc><lastmod>2023-10-20T15:43:34&#43;08:00</lastmod></url><url>
+            <loc>https://example.org/tags/drawings/</loc><lastmod>2023-10-20T15:43:34&#43;08:00</lastmod></url><url>
+            <loc>https://example.org/categories/drawings/</loc><lastmod>2023-10-20T15:43:34&#43;08:00</lastmod></url><url>
+            <loc>https://example.org/tags/xiaohu/</loc><lastmod>2023-10-20T15:43:34&#43;08:00</lastmod></url><url>
+            <loc>https://example.org/tags/wireline/</loc><lastmod>2023-10-15T15:43:34&#43;08:00</lastmod></url><url>
+            <loc>https://example.org/tags/html/</loc><lastmod>2020-01-01T16:45:40&#43;08:00</lastmod></url><url>
+            <loc>https://example.org/tags/markdown/</loc><lastmod>2020-01-01T16:45:40&#43;08:00</lastmod></url><url>
+            <loc>https://example.org/categories/markdown/</loc><lastmod>2020-01-01T16:45:40&#43;08:00</lastmod></url></urlset>

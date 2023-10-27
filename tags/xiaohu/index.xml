@@ -1,0 +1,15 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Xiaohu - Tag - My Site</title>
+        <link>https://example.org/tags/xiaohu/</link>
+        <description>Xiaohu - Tag - My Site</description>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 20 Oct 2023 15:43:34 &#43;0800</lastBuildDate><atom:link href="https://example.org/tags/xiaohu/" rel="self" type="application/rss+xml" /><item>
+    <title>小虎</title>
+    <link>https://example.org/posts/drawing-xiaohu/</link>
+    <pubDate>Fri, 20 Oct 2023 15:43:34 &#43;0800</pubDate>
+    <author>Mengbo</author>
+    <guid>https://example.org/posts/drawing-xiaohu/</guid>
+    <description><![CDATA[Look at me.]]></description>
+</item>
+</channel>
+</rss>

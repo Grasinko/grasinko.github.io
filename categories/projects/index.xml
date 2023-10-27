@@ -3,12 +3,12 @@
         <title>Projects - Category - My Site</title>
         <link>https://example.org/categories/projects/</link>
         <description>Projects - Category - My Site</description>
-        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 27 Oct 2023 15:43:34 &#43;0800</lastBuildDate><atom:link href="https://example.org/categories/projects/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 26 Oct 2023 15:43:34 &#43;0800</lastBuildDate><atom:link href="https://example.org/categories/projects/" rel="self" type="application/rss+xml" /><item>
     <title>璞石酒吧：粗砺且舒适，朴实而自然</title>
-    <link>https://example.org/posts/%E7%92%9E%E7%9F%B3/%E7%92%9E%E7%9F%B3/</link>
-    <pubDate>Fri, 27 Oct 2023 15:43:34 &#43;0800</pubDate>
+    <link>https://example.org/posts/projects-the-plain/</link>
+    <pubDate>Thu, 26 Oct 2023 15:43:34 &#43;0800</pubDate>
     <author>Mengbo</author>
-    <guid>https://example.org/posts/%E7%92%9E%E7%9F%B3/%E7%92%9E%E7%9F%B3/</guid>
+    <guid>https://example.org/posts/projects-the-plain/</guid>
     <description><![CDATA[璞石酒吧项目文章.]]></description>
 </item>
 </channel>
