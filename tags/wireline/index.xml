@@ -4,12 +4,14 @@
         <link>https://example.org/tags/wireline/</link>
         <description>Wireline - Tag - My Site</description>
         <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 15 Oct 2023 15:43:34 &#43;0800</lastBuildDate><atom:link href="https://example.org/tags/wireline/" rel="self" type="application/rss+xml" /><item>
-    <title>Wireline Mode</title>
+    <title>Some Drawings</title>
     <link>https://example.org/posts/drawing-wireline-mode/</link>
     <pubDate>Sun, 15 Oct 2023 15:43:34 &#43;0800</pubDate>
     <author>Mengbo</author>
     <guid>https://example.org/posts/drawing-wireline-mode/</guid>
-    <description><![CDATA[Time flies.]]></description>
+    <description><![CDATA[<div class="featured-image">
+                <img src="https://cvws.icloud-content.com.cn/B/Adbk0hzZAjdCNHfI9R6gph2WzMU8AeryKa60rSBwHOLLdRCggSxCA-Kq/00.PNG?o=Alg5N5vjynlu7uuqZGE1PgUeFbg9Fh6H-0wRcPeh9G4s&amp;v=1&amp;x=3&amp;a=CAog80csZij-VC-oyhV8u_T8ZxbWJE26VEuv_AAVtUexEM0SbxDQguzwxzEY0N_H8scxIgEAUgSWzMU8WgRCA-KqaicP8NkzZvT1a8TRkr0BPlYN4t473bf4wszWAS3p2Azu0ZE3-Z7h-zlyJ9CNXk8daOsdYAYspxfaa-LGIhz-rdkWRAVA-CStqcaiFy6uEKcQJA&amp;e=1702926348&amp;fl=&amp;r=a0928ad5-d347-4fc7-a711-a2ce40bf79aa-1&amp;k=dylZ1q7jvkDQHdD1OgLPow&amp;ckc=com.apple.clouddocs&amp;ckz=com.apple.CloudDocs&amp;p=224&amp;s=KqadZSKUHVf2AGEcpETVYAT_xfc&amp;cd=i" referrerpolicy="no-referrer">
+            </div>Time flies.]]></description>
 </item>
 </channel>
 </rss>
