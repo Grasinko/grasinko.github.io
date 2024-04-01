@@ -4,6 +4,14 @@
         <link>https://example.org/posts/</link>
         <description>All Posts | My Site</description>
         <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 26 Oct 2023 15:43:34 &#43;0800</lastBuildDate><atom:link href="https://example.org/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>作品集预览版</title>
+    <link>https://example.org/posts/portfolio-2024/</link>
+    <pubDate>Thu, 26 Oct 2023 15:43:34 &#43;0800</pubDate>
+    <author>Mengbo</author>
+    <guid>https://example.org/posts/portfolio-2024/</guid>
+    <description><![CDATA[2024 portfolio.]]></description>
+</item>
+<item>
     <title>璞石酒吧：粗砺且舒适，朴实而自然</title>
     <link>https://example.org/posts/projects-the-plain/</link>
     <pubDate>Thu, 26 Oct 2023 15:43:34 &#43;0800</pubDate>

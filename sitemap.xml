@@ -2,11 +2,15 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
+            <loc>https://example.org/posts/portfolio-2024/</loc><lastmod>2023-10-26T15:43:34&#43;08:00</lastmod></url><url>
             <loc>https://example.org/posts/projects-the-plain/</loc><lastmod>2023-10-26T15:43:34&#43;08:00</lastmod></url><url>
             <loc>https://example.org/posts/drawing-xiaohu/</loc><lastmod>2023-10-20T15:43:34&#43;08:00</lastmod></url><url>
             <loc>https://example.org/posts/drawing-wireline-mode/</loc><lastmod>2023-10-15T15:43:34&#43;08:00</lastmod></url><url>
+            <loc>https://example.org/tags/2024/</loc><lastmod>2023-10-26T15:43:34&#43;08:00</lastmod></url><url>
             <loc>https://example.org/categories/</loc><lastmod>2023-10-26T15:43:34&#43;08:00</lastmod></url><url>
             <loc>https://example.org/</loc><lastmod>2023-10-26T15:43:34&#43;08:00</lastmod></url><url>
+            <loc>https://example.org/tags/portfolio/</loc><lastmod>2023-10-26T15:43:34&#43;08:00</lastmod></url><url>
+            <loc>https://example.org/categories/portfolio/</loc><lastmod>2023-10-26T15:43:34&#43;08:00</lastmod></url><url>
             <loc>https://example.org/posts/</loc><lastmod>2023-10-26T15:43:34&#43;08:00</lastmod></url><url>
             <loc>https://example.org/tags/projects/</loc><lastmod>2023-10-26T15:43:34&#43;08:00</lastmod></url><url>
             <loc>https://example.org/categories/projects/</loc><lastmod>2023-10-26T15:43:34&#43;08:00</lastmod></url><url>

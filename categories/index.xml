@@ -4,6 +4,14 @@
         <link>https://example.org/categories/</link>
         <description>Categories - Category - My Site</description>
         <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 26 Oct 2023 15:43:34 &#43;0800</lastBuildDate><atom:link href="https://example.org/categories/" rel="self" type="application/rss+xml" /><item>
+    <title>Portfolio</title>
+    <link>https://example.org/categories/portfolio/</link>
+    <pubDate>Thu, 26 Oct 2023 15:43:34 &#43;0800</pubDate>
+    <author>Author</author>
+    <guid>https://example.org/categories/portfolio/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
     <title>Projects</title>
     <link>https://example.org/categories/projects/</link>
     <pubDate>Thu, 26 Oct 2023 15:43:34 &#43;0800</pubDate>
